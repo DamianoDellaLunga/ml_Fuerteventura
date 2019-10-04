@@ -1,2 +1,4 @@
-# ml_Fuerteventura
-machine learning_fuerteventura
+# CodingWaves Repository
+www.codingwaves.org
+
+This material is made by CodingWaves team.
